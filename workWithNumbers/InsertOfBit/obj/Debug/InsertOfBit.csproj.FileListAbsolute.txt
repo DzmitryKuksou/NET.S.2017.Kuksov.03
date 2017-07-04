@@ -1,0 +1,10 @@
+D:\project c#\InsertOfBit\InsertOfBit\bin\Debug\InsertOfBit.dll
+D:\project c#\InsertOfBit\InsertOfBit\bin\Debug\InsertOfBit.pdb
+D:\project c#\InsertOfBit\InsertOfBit\obj\Debug\InsertOfBit.csprojResolveAssemblyReference.cache
+D:\project c#\InsertOfBit\InsertOfBit\obj\Debug\InsertOfBit.dll
+D:\project c#\InsertOfBit\InsertOfBit\obj\Debug\InsertOfBit.pdb
+C:\Users\User\Desktop\GitHub\InsertBits\InsertOfBit\bin\Debug\InsertOfBit.dll
+C:\Users\User\Desktop\GitHub\InsertBits\InsertOfBit\bin\Debug\InsertOfBit.pdb
+C:\Users\User\Desktop\GitHub\InsertBits\InsertOfBit\obj\Debug\InsertOfBit.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\InsertBits\InsertOfBit\obj\Debug\InsertOfBit.dll
+C:\Users\User\Desktop\GitHub\InsertBits\InsertOfBit\obj\Debug\InsertOfBit.pdb

@@ -1,0 +1,18 @@
+D:\project c#\InsertOfBit\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+D:\project c#\InsertOfBit\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+D:\project c#\InsertOfBit\NUnit.Tests1\bin\Debug\InsertOfBit.dll
+D:\project c#\InsertOfBit\NUnit.Tests1\bin\Debug\nunit.framework.dll
+D:\project c#\InsertOfBit\NUnit.Tests1\bin\Debug\InsertOfBit.pdb
+D:\project c#\InsertOfBit\NUnit.Tests1\bin\Debug\nunit.framework.xml
+D:\project c#\InsertOfBit\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+D:\project c#\InsertOfBit\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+D:\project c#\InsertOfBit\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\bin\Debug\InsertOfBit.dll
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\bin\Debug\InsertOfBit.pdb
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb

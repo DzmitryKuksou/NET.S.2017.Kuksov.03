@@ -1,0 +1,10 @@
+D:\project c#\NextBiggerNumber\SearchNumber\bin\Debug\SearchNumber.dll
+D:\project c#\NextBiggerNumber\SearchNumber\bin\Debug\SearchNumber.pdb
+D:\project c#\NextBiggerNumber\SearchNumber\obj\Debug\SearchNumber.dll
+D:\project c#\NextBiggerNumber\SearchNumber\obj\Debug\SearchNumber.pdb
+D:\project c#\NextBiggerNumber\SearchNumber\obj\Debug\SearchNumber.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.03\SearchNumber\bin\Debug\SearchNumber.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.03\SearchNumber\bin\Debug\SearchNumber.pdb
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.03\SearchNumber\obj\Debug\SearchNumber.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.03\SearchNumber\obj\Debug\SearchNumber.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.03\SearchNumber\obj\Debug\SearchNumber.pdb
