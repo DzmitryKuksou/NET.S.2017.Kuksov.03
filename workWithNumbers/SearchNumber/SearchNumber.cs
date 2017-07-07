@@ -1,4 +1,5 @@
-﻿using System; 
+﻿using System;
+using System.Diagnostics;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,18 +14,26 @@ namespace SearchNumbers
         /// </summary>
         /// <param name="num">number</param>
         /// <returns>number</returns>
-        public static int NextBiggerNumber(int num)
+        public static Tuple<int, long> NextBiggerNumber(int num)
         {
+            Stopwatch stopwatch = new Stopwatch();
             CheckNum(num);
-            int []array = NumToArr(num);
-            if (CheckArr(array) == false) return -1;
+            int[] array = NumToArr(num);
+            stopwatch.Start();
+            if (CheckArr(array) == false)
+            {
+                stopwatch.Stop();
+                return Tuple.Create<int, long>(num, stopwatch.ElapsedMilliseconds);
+            }
             SortArrForSearchNum(array);
             if (num != ArrayToNum(array))
             {
                 num = ArrayToNum(array);
-                return num;
+                stopwatch.Stop();
+                return Tuple.Create<int, long>(num, stopwatch.ElapsedMilliseconds);
             }
-            return -1;
+            stopwatch.Stop();
+            return Tuple.Create<int, long>(num, stopwatch.ElapsedMilliseconds);
         }
         /// <summary>
         /// convert number to array
@@ -90,7 +99,7 @@ namespace SearchNumbers
                 temp /= 10;
             }
             int[] array = new int[length];
-            while (num != 0) 
+            while (num != 0)
             {
                 array[length - 1] = num % 10;
                 num /= 10;
@@ -116,6 +125,8 @@ namespace SearchNumbers
                 if (i <= j)
                 {
                     Swap(ref a[j], ref a[i]);
+                    i++;
+                    j--;
                 }
             }
             if (i < r)
@@ -123,7 +134,7 @@ namespace SearchNumbers
 
             if (l < j)
                 QuickSort(a, l, j);
-           return 0;
+            return 0;
         }
         /// <summary>
         /// swap two param.
