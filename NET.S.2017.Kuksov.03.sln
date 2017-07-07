@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchNumber", "C:\Users\Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertOfBit", "C:\Users\User\Desktop\GitHub\InsertBits\InsertOfBit\InsertOfBit.csproj", "{A4917827-ABF5-42E4-B581-0CD8FFF1B585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Tests1", "C:\Users\User\Desktop\GitHub\InsertBits\NUnit.Tests1\NUnit.Tests1.csproj", "{F483A2E9-43FE-4647-9DC1-2201919D4D97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitBit.Tests1", "..\InsertBits\NUnit.Tests1\NUnitBit.Tests1.csproj", "{F483A2E9-43FE-4647-9DC1-2201919D4D97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort.nunitTests1", "C:\Users\User\Desktop\GitHub\QuickSort\NUnitSorts.Tests1\Sort.nunitTests1.csproj", "{CF255CE1-650C-448C-9A27-E67E8DAA0A62}"
 EndProject
