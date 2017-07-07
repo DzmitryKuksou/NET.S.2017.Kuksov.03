@@ -23,17 +23,17 @@ namespace SearchNumbers
             if (CheckArr(array) == false)
             {
                 stopwatch.Stop();
-                return Tuple.Create<int, long>(num, stopwatch.ElapsedMilliseconds);
+                return Tuple.Create(-1, stopwatch.ElapsedMilliseconds);
             }
             SortArrForSearchNum(array);
             if (num != ArrayToNum(array))
             {
                 num = ArrayToNum(array);
                 stopwatch.Stop();
-                return Tuple.Create<int, long>(num, stopwatch.ElapsedMilliseconds);
+                return Tuple.Create(num, stopwatch.ElapsedMilliseconds);
             }
             stopwatch.Stop();
-            return Tuple.Create<int, long>(num, stopwatch.ElapsedMilliseconds);
+            return Tuple.Create(-1, stopwatch.ElapsedMilliseconds);
         }
         /// <summary>
         /// convert number to array
